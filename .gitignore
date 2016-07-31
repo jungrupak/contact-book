@@ -1,0 +1,8 @@
+# IDE FILES
+.idea
+
+# node packages
+node_modules
+
+# database config
+config/config.json
